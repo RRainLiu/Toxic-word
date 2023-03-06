@@ -19,6 +19,7 @@ I first use tradition models including logistic regression, naive bayes, random 
 
 I then use neural network, LSTM, and CNN. Here is the result
 ![image](https://user-images.githubusercontent.com/103546558/223073831-fbbd31d4-88cb-4fcd-84b3-ba6b6740f0d9.png)
+![image](https://user-images.githubusercontent.com/103546558/223075810-c4aad140-3e67-4194-96cf-0bea51426917.png)
 
 
 Overall, LSTM give me the best accuracy with 0.8893 and the least traning time. In the next step, I will do more preopossing and fune tuning. I will alsp try ensemble methods. Nueral network give me very high traning accuracy. Maybe booststrap is a good method to improve test accuray.
